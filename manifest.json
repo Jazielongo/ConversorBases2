@@ -1,0 +1,17 @@
+{
+    "name": "Conversor de números",
+    "short_name": "Conversor de números",
+    "theme.color": "#ffe08a",
+    "background_color": "#ffe08a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./icono.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
